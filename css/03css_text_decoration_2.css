@@ -1,0 +1,7 @@
+#caps{
+	text-transform: uppercase;
+}
+
+#caps_each_first_word{
+	text-transform: capitalize;
+}

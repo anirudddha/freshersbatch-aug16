@@ -1,0 +1,10 @@
+div{
+	font-size:x-large;
+	border-color:red;
+	border-width: 1px;
+	border-style:solid;
+	outline-style: dotted;
+	outline-width: 3px;
+	outline-color: green;
+	width: 50%;
+}

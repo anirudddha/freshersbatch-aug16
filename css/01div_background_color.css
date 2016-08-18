@@ -1,0 +1,29 @@
+.skyblue{
+	background-color:#1E90FF;
+	padding-bottom: 5px;
+	margin-bottom: -17px;
+}
+
+.lightgrey{
+	background-color:grey;
+	padding-bottom: 15px;
+	margin-bottom: -17px;
+}
+
+.FloralWhite{
+	background-color:#DCDCDC;
+	padding-bottom: 15px;
+	margin-bottom: 0px;
+}
+
+.DimGrey{
+	background-color:dimgrey;
+	padding-bottom: 15px;
+
+}
+
+
+#big_font{
+	font-size:2em;
+	font-family: Arial, Helvetica, sans-serif;
+}

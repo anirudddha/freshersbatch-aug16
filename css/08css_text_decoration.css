@@ -1,0 +1,23 @@
+.div1{
+	border-color:black;
+	border-width: 6px;
+	border-style:solid;
+	margin-bottom: 20px;
+	padding-left: 2px;
+}
+
+.div2{
+	border-color:black;
+	border-width: 4px;
+	border-style:solid;
+	margin-bottom: 20px;
+	padding-left: 2px;
+}
+
+.div3{
+	border-color:black;
+	border-width: 1px;
+	border-style:solid;
+	margin-bottom: 20px;
+	padding-left: 2px;
+}

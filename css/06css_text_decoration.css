@@ -1,0 +1,20 @@
+table { 
+
+		border-color: green;
+		border-width: 1px;
+		border-style: solid;
+}
+
+th{
+	color: gainsboro;
+	background-color: green;
+	border-color: green;
+	border-style: solid;
+	
+	
+}
+td{
+	background-color: lightgrey;
+	border-color: green;
+	border-style: solid;
+}
